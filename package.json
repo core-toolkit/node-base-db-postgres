@@ -1,0 +1,23 @@
+{
+  "name": "node-base-db-postgres",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/core-toolkit/node-base-db-postgres.git"
+  },
+  "author": "Alexander Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/core-toolkit/node-base-db-postgres/issues"
+  },
+  "homepage": "https://github.com/core-toolkit/node-base-db-postgres#readme",
+  "dependencies": {
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4"
+  }
+}
