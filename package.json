@@ -1,7 +1,7 @@
 {
-  "name": "node-base-db-postgres",
+  "name": "@core-toolkit/node-base-db-postgres",
   "version": "0.0.1",
-  "description": "",
+  "description": "Postgres plugin for node-base-db",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
